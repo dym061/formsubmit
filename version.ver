@@ -1,0 +1,27 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    VarFileInfo([VarStruct('FormSubmit', [1033, 1200])]), 
+    StringFileInfo(
+      [
+      StringTable(
+        '040904b0',
+        [StringStruct('CompanyName', 'CiestoMedia'),
+        StringStruct('FileDescription', 'Form Submit Program'),
+        StringStruct('FileVersion', '1.0.0.0'),
+        StringStruct('InternalName', 'formsubmit.exe'),
+        StringStruct('LegalCopyright', 'Copyright 2024-2024 CiestoMedia'),
+		StringStruct('Language', 'English (South Africa)'),
+        StringStruct('OriginalFilename', 'formsubmit.exe'),
+        StringStruct('ProductName', 'FormSubmit'),
+        StringStruct('ProductVersion', '1.0.0.0')])
+      ])
+  ]
+)
