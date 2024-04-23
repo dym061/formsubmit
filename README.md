@@ -17,8 +17,6 @@ The Python Form Submit script automates the process of logging into a website, e
 
 ## Methods 
 
-Certainly! Here’s an explanation of each method within your Python script and what they do:
-
 ### __init__
 This is the constructor for the `FillOutForm` class. It initializes the WebDriver for Selenium, sets up file paths and configuration settings, and defines default values for various attributes used throughout the class.
 
